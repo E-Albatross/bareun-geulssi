@@ -6,7 +6,6 @@
 
 ## bareun-geulssi project
 
-### 알바트로스 Organization
  
 ### 프로젝트 레포지토리 정리
 #### 프론트엔드: https://github.com/EWHA-Albatross/Albatross-FE 
