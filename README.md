@@ -1,4 +1,4 @@
-# bareun-geulssi
+# :movie_camera: bareun-geulssi
 
 ### 시연영상 링크(Youtube)
 #### 알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ
