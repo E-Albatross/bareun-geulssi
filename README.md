@@ -9,7 +9,7 @@
  
 ### :file_folder: 프로젝트 레포지토리 정리
 프론트엔드: https://github.com/EWHA-Albatross/Albatross-FE     
-인공지능:   
+컴퓨터비전:   
 백엔드: https://github.com/EWHA-Albatross/Albatross-BE  
 
 ### :pushpin: 프로젝트의 목적
@@ -29,7 +29,7 @@
 
 ### :house_with_garden: 프로젝트 개발환경
 프론트엔드: React Native  
-인공지능: OpenCV  
+: OpenCV 
 백엔드: SpringBoot + MariaDB  
 
 ### :straight_ruler: 구현 참고 자료
