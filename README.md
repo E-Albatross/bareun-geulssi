@@ -1,16 +1,16 @@
 # bareun-geulssi
 
 ### :movie_camera: 시연영상 링크(Youtube)
-알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ
+알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
 알바트로스-바른글씨 시연영상 링크:
 
 ## bareun-geulssi project
 
  
 ### :file_folder: 프로젝트 레포지토리 정리
-프론트엔드: https://github.com/EWHA-Albatross/Albatross-FE 
-인공지능: 
-백엔드: https://github.com/EWHA-Albatross/Albatross-BE
+프론트엔드: https://github.com/EWHA-Albatross/Albatross-FE     
+인공지능:   
+백엔드: https://github.com/EWHA-Albatross/Albatross-BE  
 
 ### :pushpin: 프로젝트의 목적
 태블릿 PC 보급이 활성화되면서 모바일 필기를 하는 인구가 증가하고 있다.
