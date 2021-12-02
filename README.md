@@ -31,4 +31,4 @@
 #### 인공지능: OpenCV
 #### 백엔드: SpringBoot + MariaDB
 
-### 구현 참고 자료
+### :straight_ruler: 구현 참고 자료
