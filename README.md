@@ -29,7 +29,7 @@
 
 ### :house_with_garden: 프로젝트 개발환경
 프론트엔드: React Native  
-: OpenCV 
+컴퓨터비전: OpenCV   
 백엔드: SpringBoot + MariaDB  
 
 ### :straight_ruler: 구현 참고 자료
