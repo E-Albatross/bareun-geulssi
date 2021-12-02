@@ -28,8 +28,8 @@
 7. 사용자의 점수, 저장한 이미지는 누적되므로 본인의 점수 추이와 진행 상황 등을 파악할 수 있다.
 
 ### :house_with_garden: 프로젝트 개발환경
-프론트엔드: React Native
-인공지능: OpenCV
-백엔드: SpringBoot + MariaDB
+프론트엔드: React Native  
+인공지능: OpenCV  
+백엔드: SpringBoot + MariaDB  
 
 ### :straight_ruler: 구현 참고 자료
