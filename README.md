@@ -7,7 +7,7 @@
 ## bareun-geulssi project
 
  
-### :file_folder: 프로젝트 레포지토리 정리
+### :file_folder: 프로젝트 레포지토리 정리 (소스코드)
 프론트엔드: https://github.com/EWHA-Albatross/Albatross-FE     
 컴퓨터비전: https://github.com/E-Albatross/Albatross-OpenCV  
 백엔드: https://github.com/EWHA-Albatross/Albatross-BE  
