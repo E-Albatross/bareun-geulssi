@@ -38,5 +38,5 @@
 
 ### :house_with_garden: 프로젝트 개발환경
 프론트엔드: React Native  
-컴퓨터비전: OpenCV, PyTorch, Docker   
+컴퓨터비전: OpenCV, BentoML, PyTorch, Docker   
 백엔드: SpringBoot, MariaDB, AWS EC2, AWS S3, AWS RDS  
