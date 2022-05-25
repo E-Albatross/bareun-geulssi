@@ -28,7 +28,7 @@
     : 요즘 학교에도 1인 1태블릿을 보급하는 등 전자기기 보급이 증가하고 있습니다. 따라서 전자 필기 연습이 필요한 학생들에게 도움을 줄 수 있습니다. 
 
 ### 📱미리보기
-<img src="https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png" align="left"/>
+<img src="https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png" align="left" width="30%" height="30%"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242118-edf82e1a-c59e-4f47-9f85-9d0d04d39450.png" align="left"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242713-6e49a9e9-3693-4110-8092-d811e81b5424.png" align="left"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242737-9e477887-b6d5-4c3e-8f72-bd9f0c273e70.png" align="left"/>
