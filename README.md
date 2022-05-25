@@ -29,10 +29,10 @@
 
 ### 📱미리보기
 <figure class="third">
-    <img src="![001.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ad2ef10-5adb-4d4b-b57a-5d1666b7e992/001.png)">
-    <img src="![002.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64cff134-2778-4f63-ab9c-a047ce8e4ee4/002.png)">
-    <img src="![003.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a0b921c-a451-42fc-8f8a-fde91122ccf8/003.png)">
-<figure>
+    <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ad2ef10-5adb-4d4b-b57a-5d1666b7e992/001.png">
+    <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64cff134-2778-4f63-ab9c-a047ce8e4ee4/002.png">
+    <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a0b921c-a451-42fc-8f8a-fde91122ccf8/003.png">
+figure>
 
 ###  :pencil2: 제품 설명서
 1. 메인 화면의 줄긋기 연습 버튼 / 자음모음 연습 버튼을 누르면 기초적인 연습이 가능합니다. 
