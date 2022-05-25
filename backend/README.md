@@ -6,4 +6,5 @@
 ![image](https://user-images.githubusercontent.com/76611903/170220432-bd638833-0e19-4a80-965c-197becb2cb74.png)
 ## FrontEnd와 RESTfulAPI 통신
 ## Https로 배포.
+## 전체 서비스 구조 내에서의 백엔드 역할
 ![image](https://user-images.githubusercontent.com/76611903/170225318-e4ae0da1-4b89-428e-80ad-75c6a12e1603.png)
