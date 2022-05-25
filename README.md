@@ -31,7 +31,7 @@
 ### 📱미리보기
 <hr/>
 <img src="https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png" align="left" width="30%" height="30%"/>
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/86579242/170249351-4d0513fe-ba8c-4d6b-849f-0879f405000f.png" align="left">
+<img width="30%" alt="image" src="https://user-images.githubusercontent.com/86579242/170249351-4d0513fe-ba8c-4d6b-849f-0879f405000f.png" align="left">
 <img src="https://user-images.githubusercontent.com/76611903/170242713-6e49a9e9-3693-4110-8092-d811e81b5424.png"  width="30%" height="30%"/> 
 <div style="margin-bottom:50px">
  </div>
