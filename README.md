@@ -2,7 +2,7 @@
 
 ### :movie_camera: 시연영상 링크(Youtube)
 알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
-알바트로스-바른글씨 시연영상 링크: https://youtu.be/vZpOjUITChw
+알바트로스-바른글씨 시연영상 링크: https://youtu.be/vZpOjUITChw    
 알바트로스-포스터세션 발표영상 링크: https://youtu.be/TbxrhyyXWp4     
 알바트로스-한국정보처리학회 2022 ASK 참여-논문 게재 및 학술발표대회 참여: https://youtu.be/5G6AKJ6-9jo 
 ## 프로젝트 소개
@@ -25,15 +25,15 @@
  2) 원하는 글씨체를 가지고 싶은 사용자
     : 악필이 아니더라도 예쁜 글씨체를 가지고 싶은 사용자는 자신이 원하는 글씨체를 선택해서 해당 글씨체를 학습할 수         있습니다.
  3) 한글 글씨 연습이 필요한 아동 및 학생
-    : 요즘 학교에도 1인 1태블릿을 보급하는 등 전자기기 보급이 증가하고 있습니다. 따라서 전자 필기 연습이 필요한 학생들에게 도움을 줄 수 있습니다. 
+    : 요즘 학교에 1인 1태블릿을 보급하는 등 전자기기 보급이 증가하고 있습니다. 따라서 전자 필기 연습이 필요한 학생들에게 도움을 줄 수 있습니다. 
 
 ### 📱미리보기
 <img src="https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png" align="left" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242118-edf82e1a-c59e-4f47-9f85-9d0d04d39450.png" align="left"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242713-6e49a9e9-3693-4110-8092-d811e81b5424.png" align="left"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242737-9e477887-b6d5-4c3e-8f72-bd9f0c273e70.png" align="left"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242756-06468441-2027-4108-b38a-98bc1519ec1a.png" align="left"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242836-334acdfb-d0b2-43bb-acd5-ed8eec7a972e.png" />
+<img src="https://user-images.githubusercontent.com/76611903/170242118-edf82e1a-c59e-4f47-9f85-9d0d04d39450.png" align="left" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/76611903/170242713-6e49a9e9-3693-4110-8092-d811e81b5424.png" align="left" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/76611903/170242737-9e477887-b6d5-4c3e-8f72-bd9f0c273e70.png" align="left" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/76611903/170242756-06468441-2027-4108-b38a-98bc1519ec1a.png" align="left" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/76611903/170242836-334acdfb-d0b2-43bb-acd5-ed8eec7a972e.png" width="30%" height="30%"/>
 ###  :pencil2: 제품 설명서
 1. 메인 화면의 줄긋기 연습 버튼 / 자음모음 연습 버튼을 누르면 기초적인 연습이 가능합니다. 
 2. 설정에서 사용자가 원하는 글씨체를 선택하고 메인 화면에서 작품 선택을 합니다. 그리고 문학작품을 쓸 수 있는 화면으로 이동합니다.
