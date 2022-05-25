@@ -8,9 +8,9 @@
 
  
 ### :file_folder: 프로젝트 레포지토리 정리 (소스코드)
-프론트엔드: https://github.com/EWHA-Albatross/Albatross-FE     
+프론트엔드: https://github.com/E-Albatross/Albatross-FE     
 컴퓨터비전: https://github.com/E-Albatross/Albatross-OpenCV  
-백엔드: https://github.com/EWHA-Albatross/Albatross-BE  
+백엔드: https://github.com/E-Albatross/Albatross-BE-re  
 
 ### :pushpin: 프로젝트의 필요성 & 목적
 태블릿 PC 보급이 활성화되면서 모바일 필기를 하는 인구가 증가하고 있다.
