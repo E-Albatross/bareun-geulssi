@@ -3,7 +3,7 @@
 ### :movie_camera: 시연영상 링크(Youtube)
 알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
 알바트로스-바른글씨 시연영상 링크: https://youtu.be/vZpOjUITChw
-알바트로스-포스터세션 발표영상 링크: https://youtu.be/TbxrhyyXWp4
+알바트로스-포스터세션 발표영상 링크: https://youtu.be/TbxrhyyXWp4     
 알바트로스-한국정보처리학회 2022 ASK 참여-논문 게재 및 학술발표대회 참여: https://youtu.be/5G6AKJ6-9jo 
 ## 프로젝트 소개
 
@@ -28,8 +28,8 @@
     : 요즘 학교에도 1인 1태블릿을 보급하는 등 전자기기 보급이 증가하고 있습니다. 따라서 전자 필기 연습이 필요한 학생들에게 도움을 줄 수 있습니다. 
 
 ### 📱미리보기
-<img src="![001](https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png)" align="left"/>
-<img src="![001](https://user-images.githubusercontent.com/76611903/170242118-edf82e1a-c59e-4f47-9f85-9d0d04d39450.png)" />
+<img src="https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png" align="left"/>
+<img src="https://user-images.githubusercontent.com/76611903/170242118-edf82e1a-c59e-4f47-9f85-9d0d04d39450.png" />
 
 
 
