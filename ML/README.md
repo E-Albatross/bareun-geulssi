@@ -45,7 +45,7 @@ clovaai에서 제공하는 General 모델 사용
 - opencv-python 4.5.6
 
 ### layout
-<img width="782" alt="image" src="https://user-images.githubusercontent.com/86579242/170248113-405eef4e-06ec-42f4-afea-10b26fc5c6f3.png">
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/86579242/170248467-7feab6ca-3fbd-4b9c-93d7-29f903e81fc4.png">
 
 
 ### sample
