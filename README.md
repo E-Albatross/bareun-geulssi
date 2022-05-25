@@ -34,7 +34,7 @@
 <img src="https://user-images.githubusercontent.com/76611903/170242737-9e477887-b6d5-4c3e-8f72-bd9f0c273e70.png" align="left" width="30%" height="30%"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242756-06468441-2027-4108-b38a-98bc1519ec1a.png" align="left" width="30%" height="30%"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242836-334acdfb-d0b2-43bb-acd5-ed8eec7a972e.png" width="30%" height="30%"/>    
-###  :pencil2: 제품 설명서
+### :pencil2: 제품 설명서
 1. 메인 화면의 줄긋기 연습 버튼 / 자음모음 연습 버튼을 누르면 기초적인 연습이 가능합니다. 
 2. 설정에서 사용자가 원하는 글씨체를 선택하고 메인 화면에서 작품 선택을 합니다. 그리고 문학작품을 쓸 수 있는 화면으로 이동합니다.
 3. 첫 번째 칸은 검은 글씨, 두 번째 칸은 회색 글씨, 세 번째 칸은 빈칸으로 구성된 화면이 나타납니다.
