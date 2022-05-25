@@ -19,6 +19,7 @@
 하지만 현재 어플 시장에서는 모바일 필기를 위한 어플은 존재하지 않습니다.  
 사용자들이 보다 예쁜 글씨, 깔끔한 모바일 필기를 하는 것을 돕기 위해서 이 프로젝트를 시작하였습니다.  
 
+
 ### :pushpin: 프로젝트의 타겟층
  1) 악필인 사용자
     : 악필인 사용자는 악필을 교정할 수 있습니다.
@@ -30,14 +31,17 @@
 ### 📱미리보기
 <hr/>
 <img src="https://user-images.githubusercontent.com/76611903/170242040-d4187334-4fe0-404b-88f9-fb7e9be8abf1.png" align="left" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242118-edf82e1a-c59e-4f47-9f85-9d0d04d39450.png" align="left" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/76611903/170242713-6e49a9e9-3693-4110-8092-d811e81b5424.png" align="left" width="30%" height="30%"/> 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/86579242/170249351-4d0513fe-ba8c-4d6b-849f-0879f405000f.png" align="left">
+<img src="https://user-images.githubusercontent.com/76611903/170242713-6e49a9e9-3693-4110-8092-d811e81b5424.png"  width="30%" height="30%"/> 
 <div style="margin-bottom:50px">
  </div>
+ 
 <img src="https://user-images.githubusercontent.com/76611903/170242737-9e477887-b6d5-4c3e-8f72-bd9f0c273e70.png" align="left" width="30%" height="30%"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242756-06468441-2027-4108-b38a-98bc1519ec1a.png" align="left" width="30%" height="30%"/>
 <img src="https://user-images.githubusercontent.com/76611903/170242836-334acdfb-d0b2-43bb-acd5-ed8eec7a972e.png" width="30%" height="30%"/> 
 <hr/>
+
+
 
 ### ✏️ 제품 설명서
 1. 메인 화면의 줄긋기 연습 버튼 / 자음모음 연습 버튼을 누르면 기초적인 연습이 가능합니다. 
@@ -50,5 +54,7 @@
 
 ### :house_with_garden: 프로젝트 개발환경
 프론트엔드: React Native  
-컴퓨터비전: OpenCV, BentoML, PyTorch, Docker   
+딥러닝: PyTorch, OpenCV, BentoML, Docker   
 백엔드: SpringBoot, MariaDB, AWS EC2, AWS S3, AWS RDS  
+
+
