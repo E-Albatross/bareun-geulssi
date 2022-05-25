@@ -1,22 +1,17 @@
 # 딥러닝 기반 글씨 검사 기능을 탑재한 태블릿 PC용 글씨 연습 어플, 바른 글씨
 
 ### 📁 디렉토리 소개
-- Backend : 앱의 서버, 민경원 개발
-- Frontend : 앱의 프론트, 오지은 개발
-- ML : 앱 내 딥러닝 기술, 고주은 개발
+- Backend : 앱의 서버, 민경원 개발 : https://github.com/E-Albatross/Albatross-BE-re 
+- Frontend : 앱의 프론트, 오지은 개발 : https://github.com/E-Albatross/Albatross-FE     
+- ML : 앱 내 딥러닝 기술, 고주은 개발 : https://github.com/E-Albatross/Albatross-OpenCV 
 
 ### :movie_camera: 시연영상 링크(Youtube)
 알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
 알바트로스-바른글씨 시연영상 링크: https://youtu.be/vZpOjUITChw    
 알바트로스-포스터세션 발표영상 링크: https://youtu.be/TbxrhyyXWp4     
 알바트로스-한국정보처리학회 2022 ASK 참여-논문 게재 및 학술발표대회 참여: https://youtu.be/5G6AKJ6-9jo 
-## 프로젝트 소개
 
- 
-### :file_folder: 프로젝트 레포지토리 정리 (소스코드)
-프론트엔드: https://github.com/E-Albatross/Albatross-FE     
-컴퓨터비전: https://github.com/E-Albatross/Albatross-OpenCV  
-백엔드: https://github.com/E-Albatross/Albatross-BE-re  
+## 프로젝트 소개
 
 ### :pushpin: 프로젝트의 필요성 & 목적
 태블릿 PC 보급이 활성화되면서 모바일 필기를 하는 인구가 증가하고 있습니다.
