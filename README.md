@@ -57,6 +57,8 @@
 
 
 ### :house_with_garden: 프로젝트 개발환경
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/86579242/170445659-e8d0e410-8db4-4e4a-9a09-995061054ec2.png">
+
 프론트엔드: React Native  
 딥러닝: PyTorch, OpenCV, BentoML, Docker   
 백엔드: SpringBoot, MariaDB, AWS EC2, AWS S3, AWS RDS  
