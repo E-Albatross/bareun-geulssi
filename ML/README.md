@@ -36,6 +36,10 @@ clovaai에서 제공하는 General 모델 사용
 
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/86579242/170242447-73592908-595a-4b8a-b47f-de91783ed65f.png">
 
+
+- 학습코드: [깃허브](https://github.com/0ju-un/pytorch-fpn-segmentation) 참조
+
+
 ## 📌  Code
 
 ### requirements
