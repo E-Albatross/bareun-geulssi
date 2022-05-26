@@ -1,9 +1,9 @@
 # 딥러닝 기반 글씨 검사 기능을 탑재한 태블릿 PC용 글씨 연습 어플, 바른 글씨
 
 ### 📁 디렉토리 소개
-- Backend : 앱의 서버, 민경원 개발 
-- Frontend : 앱의 프론트, 오지은 개발   
-- ML : 앱 내 딥러닝 기술, 고주은 개발 
+- Backend : 앱의 서버 
+- Frontend : 앱의 프론트
+- ML : 앱 내 딥러닝 기술 
 
 ### :movie_camera: 시연영상 링크(Youtube)
 알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
@@ -44,6 +44,9 @@
 
 
 ### ✏️ 제품 설명서
+
+[지원 url](https://cactus-thorn-d3e.notion.site/58d5a8ef2eb64b5297f2bf359f643db5)
+
 1. 메인 화면의 줄긋기 연습 버튼 / 자음모음 연습 버튼을 누르면 기초적인 연습이 가능합니다. 
 2. 설정에서 사용자가 원하는 글씨체를 선택하고 메인 화면에서 작품 선택을 합니다. 그리고 문학작품을 쓸 수 있는 화면으로 이동합니다.
 3. 첫 번째 칸은 검은 글씨, 두 번째 칸은 회색 글씨, 세 번째 칸은 빈칸으로 구성된 화면이 나타납니다.
@@ -52,9 +55,16 @@
 6. 다운로드 버튼을 누르면 사용자의 갤러리에 글씨 이미지를 저장할 수 있다.
 7. 검사하기 버튼을 누르면 사용자의 점수, 사용자의 글씨 이미지는 자동으로 저장되므로 사용자가 본인의 진행 상황 및 발전 정도 등을 파악할 수 있습니다.
 
+
 ### :house_with_garden: 프로젝트 개발환경
 프론트엔드: React Native  
 딥러닝: PyTorch, OpenCV, BentoML, Docker   
 백엔드: SpringBoot, MariaDB, AWS EC2, AWS S3, AWS RDS  
+
+### 🦅 팀 알바트로스
+|💛 오지은|💙 민경원|🖤 고주은|
+|:------:|:------:|:------:|
+|Frontend|Backend|AI|
+|[@0909oje](https://github.com/0909oje)|[@mkwkw](https://github.com/mkwkw)|[@0ju-un](https://github.com/0ju-un)|
 
 
