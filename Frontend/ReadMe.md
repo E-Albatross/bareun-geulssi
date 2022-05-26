@@ -6,6 +6,23 @@
 <br>
 그 개발 과정은 https://velog.io/@0909oje/series/React-Native 에서 찾아볼 수 있습니다.
 
+## 📌 Directory
+
+### - assets
+- fonts : 프로젝트 내에서 사용한 여러 폰트들 모음
+- MainPage : 메인화면에서 사용한 프로필, 서랍 아이콘과 문학작품 썸네일 이미지
++ 기타 캔버스나 서랍 화면, 프로필 화면에서 사용한 여러 아이콘들
+
+### - components
+- components : 문학작품 리스트, 폰트 리스트 등 여러 리스트와 중복 사용했던 여러 컴포넌트들 모음
+
+### - pages
+- profilePage : 프로필 화면에 사용
+- DrawerPage, DrawerPicture : 내 서랍 화면과 내 서랍에 저장된 이미지 화면
+- ExLine, ExWord : 줄긋기 연습, 자음 모음 연습 화면
+- ExLiterature, SubLiter : 문학작품연습화면과 그 안에 들어간 페이지 단위 캔버스 화면
+
+
 ## 📌 Stacks
 
 <img src="https://img.shields.io/badge/ReactNative-FE2E2E?style=flat-square&logo=React&logoColor=white"/></a>
