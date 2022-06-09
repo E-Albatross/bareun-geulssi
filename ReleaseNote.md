@@ -45,13 +45,13 @@
 ### 3. 자음모음 연습
 
 3-1. 메인화면에서 ‘자음모음연습’ 버튼을 터치하여 이동합니다.
+    
+3-2.  자음 모음 연습을 진행합니다. 
 
 <p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848579-022ddb81-5c4e-4b83-a7ea-0538a559e207.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848613-b749ca17-9073-4e71-88ea-64ac66b230f6.png">
 </p>
-    
-3-2.  자음 모음 연습을 진행합니다. 
 
 글씨 연습 기본기능(자음모음연습, 줄긋기연습, 문학작품 필사에서 동일하게 제공):
 
