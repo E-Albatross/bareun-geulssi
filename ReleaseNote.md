@@ -104,6 +104,6 @@
 6-2. 상단에는 사용자가 지금까지 쓴 글씨의 점수 그래프가, 하단에는 사용자가 지금까지 쓴 글씨 이미지가 표시됩니다.  해당 이미지를 클릭하여 과거에 자신이 썼던 글씨 이미지를 확인할 수 있습니다.
 
 <p align="center">
-<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848944-8803baa9-1a0e-49c3-af47-878a0773bb54.png" align="left">
+<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172855139-74688c5b-cb48-4f55-9fd2-15adab041b0e.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848962-67a01e3c-69fe-470b-9b9a-30dddeb6ede6.png">
 </p>
