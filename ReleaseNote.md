@@ -22,8 +22,10 @@
 
 메인화면에서 ‘자음모음연습', ‘줄긋기연습', ‘문학작품 필사', ‘프로필 및 설정', ‘내 서랍’에 접근할 수 있습니다.
 
-<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848428-e227c84e-ca2b-49ee-a0ad-267a77887520.png" align="center">
-
+<p align="center">
+<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848428-e227c84e-ca2b-49ee-a0ad-267a77887520.png">
+</p>
+    
 2. 설정하기
 
 2-1. 메인화면에서 프로필 및 설정을 위한 아이콘을 터치하여 이동합니다.
@@ -65,12 +67,16 @@
 
 5-1. 메인화면의 문학작품 필사 영역에서 원하는 문학 작품을 선택합니다.
 
-<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848723-a9508bef-3966-4632-a421-a91914876a00.png" align="center">
-
+<p align="center">
+<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848723-a9508bef-3966-4632-a421-a91914876a00.png">
+</p>
+    
 5-2.  문학작품 필사
 
-<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848747-162d7f41-0f3f-472e-b70a-34d0a037ef54.png" align="center">
-
+<p align="center">
+<img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848747-162d7f41-0f3f-472e-b70a-34d0a037ef54.png">
+</p>
+    
  1) 첫 번째 줄에 검은색 교본 글씨가 나옵니다. 두 번째 줄의 회색 글씨 위에 교본 글씨를 따라 써볼 수 있고 세 번째 줄의 빈 칸에 사용자가 글씨 연습을 할 수 있습니다. 
 
  2) 세 번째 줄마다 있는 빈칸에 글씨를 쓰고 우측 상단의 돋보기 모양 아이콘을 터치하면 검사를 시작합니다.
