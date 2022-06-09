@@ -11,10 +11,11 @@
 3. 파란색 “설치” 버튼을 터치하여 “바른글씨” 앱을 설치합니다. 
     
     앱이 다 설치 되면 “열기" 버튼을 터치하여 “바른글씨” 앱에 접속합니다. 
-    
+
+<p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848271-43151f35-16f1-46c5-a5b5-53958967c581.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848286-2cd28f8f-3002-4797-9644-3e895b968de0.png">
-
+</p>
 
 ## 어플 사용 방법
 
@@ -36,16 +37,20 @@
 
 - 좌측 상단 집 아이콘: 아이콘을 터치하여 메인화면으로 돌아갈 수 있습니다.
 
+<p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848472-e91223b4-93f7-4286-9b86-8268adb247b4.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848516-e1d57d63-48c6-4dea-ae85-0a1534ccf887.png">
-
+</p>
+    
 3. 자음모음 연습
 
 3-1. 메인화면에서 ‘자음모음연습’ 버튼을 터치하여 이동합니다.
 
+<p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848579-022ddb81-5c4e-4b83-a7ea-0538a559e207.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848613-b749ca17-9073-4e71-88ea-64ac66b230f6.png">
-
+</p>
+    
 3-2.  자음 모음 연습을 진행합니다. 
 
 글씨 연습 기본기능(자음모음연습, 줄긋기연습, 문학작품 필사에서 동일하게 제공):
@@ -60,9 +65,11 @@
 
 4-1. 메인화면에서 ‘줄 긋기 연습'을 터치하여 이동합니다.
 
+<p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848665-6347c5b2-2c36-48d6-8df6-b917fbf0c7ac.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848686-94871e72-bdbd-4154-a457-9e1f4eb2c230.png">
-
+</p>
+    
 5. 문학작품필사
 
 5-1. 메인화면의 문학작품 필사 영역에서 원하는 문학 작품을 선택합니다.
@@ -85,14 +92,18 @@
 
 5-4. 우측 상단의 다운로드 버튼으로 사용자 핸드폰의 로컬 갤러리에 자신이 쓴 글씨 이미지를 저장할 수 있습니다.
 
+<p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848813-bd073263-d9fd-4330-a638-ace5f98acfa3.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848838-432c8c7d-220c-443b-aaea-03db371ce985.png">
-
+</p>
+    
 6. 필기 정보 저장
 
 6-1. 메인화면에서 내 서랍 아이콘을 터치하여 내 서랍 화면으로 이동합니다.
 
 6-2. 상단에는 사용자가 지금까지 쓴 글씨의 점수 그래프가, 하단에는 사용자가 지금까지 쓴 글씨 이미지가 표시됩니다.  해당 이미지를 클릭하여 과거에 자신이 썼던 글씨 이미지를 확인할 수 있습니다.
 
+<p align="center">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848944-8803baa9-1a0e-49c3-af47-878a0773bb54.png" align="left">
 <img width="40%" alt="image" src="https://user-images.githubusercontent.com/65931227/172848962-67a01e3c-69fe-470b-9b9a-30dddeb6ede6.png">
+</p>
