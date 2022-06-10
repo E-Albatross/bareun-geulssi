@@ -4,6 +4,7 @@
 - Backend : 앱의 서버 
 - Frontend : 앱의 프론트
 - ML : 앱 내 딥러닝 기술 
+- ReleaseNote.md : Quick Start Guide
 
 ### :movie_camera: 시연영상 링크(Youtube)
 알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
