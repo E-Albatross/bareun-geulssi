@@ -11,6 +11,7 @@
 알바트로스-바른글씨 시연영상 링크: https://youtu.be/vZpOjUITChw    
 알바트로스-포스터세션 발표영상 링크: https://youtu.be/TbxrhyyXWp4     
 알바트로스-한국정보처리학회 2022 ASK 참여-논문 게재 및 학술발표대회 참여: https://youtu.be/5G6AKJ6-9jo 
+(paper) 딥러닝 기반 한글 전자 필기 연습 및 분석 앱 개발에대한 연구: https://portal.issn.org/resource/ISSN/2671-7298
 
 ## 프로젝트 소개
 
