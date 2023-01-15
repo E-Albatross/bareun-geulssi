@@ -70,6 +70,6 @@
 |💛 오지은|💙 민경원|🖤 고주은|
 |:------:|:------:|:------:|
 |Frontend|Backend|AI|
-|[@0909oje](https://github.com/0909oje)|[@mkwkw](https://github.com/mkwkw)|[@0ju-un](https://github.com/0ju-un)|
+|[@JeeeunOh](https://github.com/JeeeunOh)|[@mkwkw](https://github.com/mkwkw)|[@0ju-un](https://github.com/0ju-un)|
 
 
